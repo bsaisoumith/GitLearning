@@ -1,0 +1,20 @@
+git
+pwd - present directory
+ls - list content
+cd desktop
+cd \c
+git config --global user.name "sai"
+git config --global user.email "bsaisoumith@gmail.com"
+git config --list
+git config user.name
+git config user.email
+git init
+git status
+git add --a  - to track the untrack files
+git commit -m 'initial commit'
+git log
+git add hello.txt
+git commit -m "changed hello.txt and added better design"
+rm -rf .git
+git clone https://github.com/tensorflow/tensorflow
+git log

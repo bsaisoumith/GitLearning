@@ -1,0 +1,6 @@
+Version control systems are a category of software tools that helps in recording changes made to files by keeping a track of modifications done in the code. 
+Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+Git relies on the basis of distributed development of software where more than one developer may have access to the source code of a specific application and can modify changes to it that may be seen by other developers..
+
+i want this ti commit
+changed by me
